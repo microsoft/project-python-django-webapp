@@ -4,6 +4,7 @@
 
 
 # Python Django web application
+This repo is now deprecated. Use https://github.com/microsoft/devops-project-samples
 
 Sample Python Django web application built using Visual Studio 2017.
 
