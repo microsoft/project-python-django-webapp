@@ -1,10 +1,12 @@
+# This repo is now deprecated. Use https://github.com/microsoft/devops-project-samples
+
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
 | Python | Django | Azure Web App, Virtual Machine| |
 
 
 # Python Django web application
-This repo is now deprecated. Use https://github.com/microsoft/devops-project-samples
+
 
 Sample Python Django web application built using Visual Studio 2017.
 
