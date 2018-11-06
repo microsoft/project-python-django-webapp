@@ -2,7 +2,7 @@
 
 | Language | Framework | Platform | Author |
 | -------- | -------- |--------|--------|
-| Python | Django | Azure Web App, Virtual Machine| |
+| Python  2.7, 3.4, or 3.5 | Django 1.9.x | Azure Web App, Virtual Machine| |
 
 
 # Python Django web application
